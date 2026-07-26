@@ -1,4 +1,5 @@
- $ whoami
+ ```bash
+$ whoami
 riddhi — half human, half stack trace
 
 $ cat manifesto.txt
@@ -8,23 +9,24 @@ I turn raw, messy data into insights that actually make sense,
 and models that do more than just memorize the training set.
 
 $ ps aux | grep riddhi
-riddhi   9999  99.9  AI       R    building models that learn instead of guessing
-riddhi   9998  91.2  PYTHON   R    scripting my way out of every problem
-riddhi   9997  88.5  ANALYTICS S   turning spreadsheets into stories
-riddhi   9996  76.4  NLP      S    teaching machines to read between the lines
-riddhi   9995  42.0  COFFEE   R    running on caffeine and stubbornness
+riddhi   9999  99.9  AI        R    building models that learn instead of guessing
+riddhi   9998  91.2  PYTHON    R    scripting my way out of every problem
+riddhi   9997  88.5  ANALYTICS S    turning spreadsheets into stories
+riddhi   9996  76.4  NLP       S    teaching machines to read between the lines
+riddhi   9995  42.0  COFFEE    R    running on caffeine and stubbornness
 
 $ ./skills.sh --list
-[✓] Python              — pandas, numpy, scikit-learn
-[✓] AI / ML             — model training, evaluation, deployment
-[✓] Data Analytics      — EDA, visualization, statistical reasoning
-[✓] NLP                 — text classification, transformers
+[✓] Python          — pandas, numpy, scikit-learn
+[✓] AI / ML         — model training, evaluation, deployment
+[✓] Data Analytics  — EDA, visualization, statistical reasoning
+[✓] NLP             — text classification, transformers
 
 $ sudo rm -rf doubts/
 permission granted.
 
 $ echo $STATUS
-"currently learning AI Agents — turning data into decisions, one model at a time.
+"currently learning AI Agents — turning data into decisions, one model at a time."
+```
 
 
 ## 🌐 Socials:
